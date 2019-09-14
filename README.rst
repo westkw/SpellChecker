@@ -6,9 +6,6 @@
 Spell Checker Documentation
 ============================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 The Problem
 -----------
