@@ -2,6 +2,9 @@
    sphinx-quickstart on Fri Sep  6 22:19:21 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+   
+http://student2.cs.appstate.edu/westkw/ENG_3695/build/html/   
+   
 
 Spell Checker Documentation
 ============================
